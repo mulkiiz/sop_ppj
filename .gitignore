@@ -1,0 +1,5 @@
+# Ignore all files except .docx and .md
+*
+!*.docx
+!*.md
+!.gitignore
