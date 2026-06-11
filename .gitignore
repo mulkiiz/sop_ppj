@@ -3,3 +3,7 @@
 !*.docx
 !*.md
 !.gitignore
+
+# Local-only files (not pushed)
+CLAUDE.md
+Testing-DOCX-Skill.docx
